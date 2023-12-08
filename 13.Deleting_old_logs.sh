@@ -1,6 +1,6 @@
 #!/bin/bash
 
-APP_LOGS_DIR=/c/repo/devops/shellscript/logs
+APP_LOGS_DIR=/home/centos/shellscript-logs
 
 DATE=$(date +%F:%H:%M:%S)
 LOGSDIR=/c/devops/repo/shellscript/Shellweb/.git/logs

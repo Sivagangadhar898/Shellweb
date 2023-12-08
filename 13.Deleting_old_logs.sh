@@ -3,8 +3,7 @@
 APP_LOGS_DIR=/home/centos/app-logs
 
 DATE=$(date +%F:%H:%M:%S)
-LOGSDIR=/c/devops/repo/shellscript-logs
-
+LOGSDIR=/c/devops/repo/shellscript/Shellweb/.git/logs
 SCRIPT_NAME=$0
 LOGFILE=$LOGSDIR/$SCRIPT_NAME-$DATE.log
 
